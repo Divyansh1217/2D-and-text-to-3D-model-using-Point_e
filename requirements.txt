@@ -1,0 +1,10 @@
+torch>=1.13.0
+streamlit
+matplotlib
+tqdm
+numpy
+scipy
+trimesh
+Pillow
+# You may need to install point-e manually if not available via pip
+-e git+https://github.com/openai/point-e.git#egg=point-e
