@@ -34,8 +34,6 @@ This project loads a 3D point cloud and converts it into a mesh using a Signed D
 
 ---
 
-## 📦 Features
-
 - Loads point cloud data from `.npz` files
 - Visualizes point cloud with color
 - Uses a pretrained SDF model (`ViT-L-14.pt`) to infer a surface
